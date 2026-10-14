@@ -241,7 +241,8 @@ Key components include:
 - Delivery Performance
 - Trend Analysis
 
----
+<img width="2473" height="1781" alt="image" src="https://github.com/user-attachments/assets/c172f93b-4ee4-451a-a65a-17aa6a973ce2" />
+
 
 ## 📊 Power BI Dashboard
 

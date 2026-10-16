@@ -243,6 +243,7 @@ Key components include:
 
 <img width="840" height="570" alt="Screenshot 2026-10-14 143101" src="https://github.com/user-attachments/assets/964cd8b3-02cb-481c-906c-b754fede6cae" />
 
+<img width="837" height="575" alt="Screenshot 2026-10-14 143433" src="https://github.com/user-attachments/assets/d2aa65e4-5051-44e3-adc2-6cbe69367b61" />
 
 ## 📊 Power BI Dashboard
 

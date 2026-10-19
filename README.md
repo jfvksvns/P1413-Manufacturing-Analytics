@@ -14,7 +14,7 @@ The project focuses on production performance, manufacturing quantities, machine
 
 The project demonstrates the complete analytics lifecycle, including data cleaning and validation, KPI development, SQL-based business analysis, dashboard development, and business intelligence reporting. The dashboards provide insights into production efficiency, rejected quantities, machine performance, employee contributions, departmental quality, and overall manufacturing performance.
 
----
+
 
 # 🎯 Project Objectives
 

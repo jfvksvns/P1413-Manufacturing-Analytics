@@ -31,7 +31,7 @@ The project demonstrates the complete analytics lifecycle, including data cleani
 - Build interactive dashboards using Excel, Power BI, and Tableau.
 - Present manufacturing insights through effective data visualization.
 
----
+
 
 # 🛠️ Tech Stack
 

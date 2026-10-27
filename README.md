@@ -273,6 +273,8 @@ Key components include:
 
 The dashboard helps users understand manufacturing performance and compare production and rejection quantities across different operational dimensions.
 
+<img width="1263" height="720" alt="image" src="https://github.com/user-attachments/assets/189db8a1-9e23-41fa-84ef-400079d00e40" />
+
 ---
 
 ## 📊 Tableau Dashboard

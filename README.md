@@ -294,6 +294,9 @@ Key components include:
 - Delivery Performance
 - Business Insights & Storytelling
 
+<img width="1588" height="704" alt="image" src="https://github.com/user-attachments/assets/e00b4b11-a560-4b68-a4da-9e3ad7db8952" />
+
+
 ---
 
 # 📁 Repository Structure

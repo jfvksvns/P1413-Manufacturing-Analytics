@@ -219,6 +219,9 @@ The SQL analysis covers:
 
 These queries support KPI validation and help transform manufacturing data into meaningful business insights.
 
+
+<img width="1757" height="370" alt="image" src="https://github.com/user-attachments/assets/30c33874-2e95-4d7d-bd61-7b771991bcdc" />
+
 ---
 
 # 📈 Dashboards
